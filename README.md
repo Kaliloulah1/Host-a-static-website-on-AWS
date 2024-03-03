@@ -77,4 +77,8 @@ systemctl start httpd
 ## Reference:
 - The reference diagram and deployment scripts can be found in the GitHub repository: [Host a Static Website on AWS](https://github.com/Kaliloulah1/Host-a-static-website-on-AWS.git)
 
+## Conclusion
+This setup ensures a scalable, secure, and fault tolerant environment for hosting a static web application, leveraging AWS"s robust infrastructure.
+
+
 
